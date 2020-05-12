@@ -1,3 +1,4 @@
 # invie
-Proyecto de Platzi repositorio en GitHub
-Tus mejores guitarras invie-sibles
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
